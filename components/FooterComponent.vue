@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p>&copy; 2021 jeuub</p>
+    <p>&copy; 2022 alex</p>
   </footer>
 </template>
 
