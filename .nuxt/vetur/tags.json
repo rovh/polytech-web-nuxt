@@ -1,0 +1,20 @@
+{
+  "CarouselComponent": {
+    "description": "Auto imported from components/CarouselComponent.vue"
+  },
+  "CommentFormComponent": {
+    "description": "Auto imported from components/CommentFormComponent.vue"
+  },
+  "CommentListComponent": {
+    "description": "Auto imported from components/CommentListComponent.vue"
+  },
+  "CommentsComponent": {
+    "description": "Auto imported from components/CommentsComponent.vue"
+  },
+  "FooterComponent": {
+    "description": "Auto imported from components/FooterComponent.vue"
+  },
+  "HeaderComponent": {
+    "description": "Auto imported from components/HeaderComponent.vue"
+  }
+}

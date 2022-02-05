@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Articles",
+    "path": "/Articles",
+    "component": "D:\\\\Users\\\\Alexei\\\\Desktop\\\\polytech-web-nuxt\\\\pages\\\\Articles\\\\index.vue",
+    "chunkName": "pages/Articles/index",
+    "_name": "_46bc58f2"
+  },
+  {
+    "name": "Articles-id",
+    "path": "/Articles/:id",
+    "component": "D:\\\\Users\\\\Alexei\\\\Desktop\\\\polytech-web-nuxt\\\\pages\\\\Articles\\\\_id.vue",
+    "chunkName": "pages/Articles/_id",
+    "_name": "_c9e0204c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Users\\\\Alexei\\\\Desktop\\\\polytech-web-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_15b1492f"
+  }
+]
