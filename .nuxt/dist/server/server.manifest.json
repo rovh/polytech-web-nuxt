@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/carousel-component.js": "components/carousel-component.js",
+    "components/comment-form-component.js": "components/comment-form-component.js",
+    "components/comment-list-component.js": "components/comment-list-component.js",
+    "components/comments-component.js": "components/comments-component.js",
+    "pages/Articles/_id.js": "pages/Articles/_id.js",
+    "pages/Articles/index.js": "pages/Articles/index.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/carousel-component.js": "components/carousel-component.js.map",
+    "components/comment-form-component.js": "components/comment-form-component.js.map",
+    "components/comment-list-component.js": "components/comment-list-component.js.map",
+    "components/comments-component.js": "components/comments-component.js.map",
+    "pages/Articles/_id.js": "pages/Articles/_id.js.map",
+    "pages/Articles/index.js": "pages/Articles/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
